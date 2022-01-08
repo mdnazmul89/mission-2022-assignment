@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: 10px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 20%;
+    padding-right: 5%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.add-border{
+    border-left: 2px solid;
+    border-image: linear-gradient(red tomato);
+
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 100px;
+}
+.half-width img{
+    width: 50%;
+}
+.one-third{
+    width: 30%;
+}
+.one-third img{
+    width: 50%;
+}
+.coding-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 60px;
+}
+.meeting-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 60px;
+}
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    font-family: ;
+}
+.red-color{
+    color: red;
+}
